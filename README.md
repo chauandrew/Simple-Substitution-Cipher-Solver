@@ -1,10 +1,13 @@
+![alt text](https://github.com/chauandrew/Simple-Substitution-Cipher-Solver/blob/master/source/screenshot.png)
+
 # Simple-Substitution-Cipher-Solver
 ## UCLA CS 32 Winter 2018 Project 4
 
 This program can be used to decode a simple substitution cipher! It outputs every possible solution for a given input.
 
 ### Getting Started
-Before using, make sure that the Cracked.exe file and the largewordlist.txt are in the same directory. 
+
+Before using, make sure that the Cracked.exe file and the largewordlist.txt are in the same directory. Then, from terminal/cmd/bash:
 
 use ```Cracked -e "Your Message Here"``` to encrypt your message with a simple substitution cipher encoding
 
