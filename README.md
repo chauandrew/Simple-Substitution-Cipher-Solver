@@ -1,7 +1,7 @@
 # Simple-Substitution-Cipher-Solver
-## UCLA CS 32 Winter 2018 Project 
+## UCLA CS 32 Winter 2018 Project 4
 
-This program can be used to decode a simple substitution cipher! It prints out every possible solution to given input.
+This program can be used to decode a simple substitution cipher! It outputs every possible solution for a given input.
 
 ### Getting Started
 Before using, make sure that the Cracked.exe file and the largewordlist.txt are in the same directory. 
